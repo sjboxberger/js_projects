@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "home.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha ./p1-tests/p1_tests.js"
   },
   "author": "",
   "license": "ISC",
