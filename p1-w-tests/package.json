@@ -1,0 +1,11 @@
+{
+  "name": "p1-w-tests",
+  "version": "1.0.0",
+  "main": "home.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
